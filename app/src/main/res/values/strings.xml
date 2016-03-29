@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smarty</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="scan">Scan</string>
+</resources>
